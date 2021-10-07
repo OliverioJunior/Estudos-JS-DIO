@@ -1,0 +1,6 @@
+##Atribuição de Valores:
+###Boas práticas na criação de variáveis que contém mais de uma palavra
+
+- Nome original da variável : some awesome var.
+- Camel Case: someAwesomeVar // ####Muito utilizada no JavaScript.
+- Upper Case Snake Case: SOME_AWESOME_VAR // ####Utilizada na criação de constantes.
