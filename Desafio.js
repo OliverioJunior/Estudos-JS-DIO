@@ -13,7 +13,7 @@ function analise (a,b){
 }
 
 
-analise(9,0)
+analise(0,0)
 analise(9,25)
 analise(9,4)
 analise(9,9)
