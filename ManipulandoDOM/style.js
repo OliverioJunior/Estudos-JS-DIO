@@ -38,6 +38,7 @@ button.style.backgroundColor = '#4e545c';
 button.style.color = '#e5e8e8';
 button.style.transition = "all 0.5s linear";
 
+const title = document.querySelector('#page-title')
 
 
 

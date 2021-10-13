@@ -36,7 +36,7 @@ button.addEventListener('mouseover',()=>{
          button.style.backgroundColor = '#e5e8e8';
          button.style.color = '#8d9797';
          button.innerText = 'Light Mode'
- 
+         title.innerText = " Dark Mode ON"
      } else {
          body.style.backgroundColor = '#e5e8e8'
          body.style.color = '#4e545c';
@@ -47,6 +47,7 @@ button.addEventListener('mouseover',()=>{
          button.style.backgroundColor = '#4e545c';
          button.style.color = '#e5e8e8';
          button.innerText = 'Dark Mode'
+         title.innerText = " Light Mode ON"
      }
  } )
  
