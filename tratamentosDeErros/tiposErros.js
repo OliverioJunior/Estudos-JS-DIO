@@ -1,4 +1,4 @@
-function validaArray(arr,num){
+ function validaArray(arr,num){
    try{
     if (!arr && !num) throw new ReferenceError("Envie os parâmetros");
 
@@ -31,5 +31,4 @@ function validaArray(arr,num){
     }
 }
 console.log(typeof([]))
-console.log(validaArray([1], 'a'))
-
+console.log(validaArray([1], 'a')) 
